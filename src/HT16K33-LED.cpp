@@ -2,7 +2,7 @@
  * HT16K33 LED driver library by Julien Vanier <jvanier@gmail.com>
  */
 
-#include "HT16K33.h"
+#include "HT16K33-LED.h"
 
 const uint8_t HT16K33::BASE_SLAVE_ADDRESS = 0x70;
 

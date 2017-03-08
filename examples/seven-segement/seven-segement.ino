@@ -1,6 +1,6 @@
 // Drive a sevent segement LED using a HT16K33
 
-#include "HT16K33.h"
+#include "HT16K33-LED.h"
 
 const uint8_t NUMBER_CODES[10] = {
     0x7D, // 0

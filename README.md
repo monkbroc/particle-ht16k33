@@ -1,4 +1,4 @@
-# HT16K33
+# HT16K33-LED
 
 A Particle library for the HT16K33 LED display driver.
 
@@ -7,6 +7,8 @@ A Particle library for the HT16K33 LED display driver.
 Connect the HT16K33 to I2C, add the HT16K33 library to your project and follow this simple example:
 
 ```
+#include "HT16K33-LED.h"
+
 HT16K33 display;
 
 void setup() {
